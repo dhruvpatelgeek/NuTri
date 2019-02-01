@@ -1,7 +1,7 @@
-# nutri
+# NuTri
 
 An app that can detect the number of calories of a fruit or by reading labels.
-
+![Alt text](https://github.com/dhruvpatelgeek/NuTri/blob/master/NuTri-1.png)
 
 ## Getting Started
 
